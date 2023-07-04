@@ -42,3 +42,12 @@ table {
 	border-spacing: 0;
 }
 
+.cal-container{
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+    color: bisque;
+    display: flex;
+    flex-direction: column;
+    margin: 50px auto;
+}
